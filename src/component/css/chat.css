@@ -1,0 +1,24 @@
+.chatbody{
+    flex: 0.65;
+    height: 100%;
+    flex-direction: column;   
+}
+
+.chat-header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F8F9FA;
+    margin: 2px 0;
+
+}
+.chat-content{
+    height: 76%;
+    background-color: antiquewhite;
+}
+.chat-input{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F8F9FA;
+}

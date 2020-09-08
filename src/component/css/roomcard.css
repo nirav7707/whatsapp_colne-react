@@ -1,0 +1,16 @@
+.roomcard-body{
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    justify-content: space-around;
+
+}
+.roomcard-body>div{
+    display:flex;
+align-items: center;
+}
+
+.roomcard-body:hover{
+    background-color: #ededee;
+}
+
